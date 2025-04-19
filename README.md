@@ -1,4 +1,4 @@
 # lightningNetwork
 
 ## About
-Implementaion of bitcoin lightning network at basic level in C++
+Implementation of Bitcoin Lightning Network at a basic level in C++
